@@ -4,3 +4,18 @@ font-family: Arial;
 h1{
 color: red
 }
+body{
+  background-color: blue;
+}
+h1{
+  background-color: turquoise;
+}
+h2{
+  background-color: orangered;
+}
+p{
+  background-color: white;
+}
+ul{
+  background-color: white;
+}
