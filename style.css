@@ -1,21 +1,20 @@
-h1{
-font-family: Arial;
-}
-h1{
-color: red
-}
 body{
-  background-color: blue;
+  background-img: turtle;
 }
 h1{
   background-color: turquoise;
 }
 h2{
-  background-color: orangered;
+  background-color: orange;
 }
 p{
-  background-color: white;
+  background-color:lightblue
 }
 ul{
-  background-color: white;
+  background-color:lightblue
+}
+body{
+  background-image: url("https://cdn6.bigcommerce.com/s-9sf3i6p/product_images/uploaded_images/galaxy.jpg?t=1457808323");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
